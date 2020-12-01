@@ -158,7 +158,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Uwp, version=20.1">
+    <SDKReference Include="DevExpress.Uwp, version=20.2">
       <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
